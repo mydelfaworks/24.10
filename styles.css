@@ -1,0 +1,20 @@
+/*
+.list .item {
+    color: green;
+}
+*/
+
+.list > .item {
+    color: green;
+}
+
+h1+p {
+    color: brown;
+    font-weight: 1000;
+}
+
+/*
+h1~h3 {
+    border: 5px
+}
+*/
